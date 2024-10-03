@@ -1,0 +1,1 @@
+{"root":["./src/firebaseconfig.ts","./src/main.tsx","./src/utils.ts","./src/vite-env.d.ts","./src/components/securedroute.tsx","./src/components/shapefile.tsx","./src/contexts/authcontext.tsx","./src/pages/loginpage.tsx","./src/pages/mappage.tsx","./src/pages/admin/adminpage.tsx","./src/pages/admin/fieldcreation.tsx"],"version":"5.6.2"}
